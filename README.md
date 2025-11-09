@@ -4,7 +4,7 @@ Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</s
 
 - 🚀 Atualmente estou aprendendo: <strong>JAVA/SQL</strong> 
 - 💬 Pergunte-me sobre: <strong>Viajar e conhecer novas culturas</strong>
-- 📣 Nós podemos falar em: <strong>Seus Portugues e Ingles</strong>
+- 📣 Nós podemos falar em: <strong> Portugues e Ingles</strong>
 
 <div align="center">
 
